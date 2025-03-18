@@ -1,0 +1,18 @@
+p{
+    background-color: rgb(210, 23, 220);
+    font-family: Verdana, "deja-vu Sans", sans-serif ;
+}
+
+#second{
+    color: rgba(5, 5, 100, 0.811);
+    font-size: 36px;
+}
+
+.bigger-font{
+    font-size: 24px;
+}
+
+.green{
+    background-color: rgb(20, 230, 104);
+    font-weight: bold;
+}
